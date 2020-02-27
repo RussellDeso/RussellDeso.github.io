@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: images/ico.ico
 
 # Personal info
 name: Russell DeSousa
@@ -22,7 +22,7 @@ linkedin_username: RussellDesousa
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/pfpcrop.png
 about_content: | # this will include new lines to allow paragraphs
   My name is Russell and I'm a self-proclaimed robotics engineering nerd with experience in all major aspects of robotics. With years worth of working in teams to solve engineering problems, tackling competitions, and designing products, I am highly comfortable working in teams from small to large.
 
@@ -40,11 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  In addition to my interest in robotics and engineering as a whole, I'm also interested in the following:
+   - Photography
+   - Graphic Design
+   - Machine shop work
 
 # Footer
 footer_show_references: true

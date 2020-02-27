@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Hop Pathfinder (CS3733 Software Engineering)
-  link: https://github.com/RussellDeso/HopPathfinderSnapshot-Iter3
-  github: RussellDes/HopPathFinderSnapshot-Iter3
+  link: https://github.com/orgs/CS3733-C20-Team-R/dashboard
+  github: RussellDeso/HopPathFinderSnapshot-Iter3
   quote: >
     Proclaimed as one of the hardest courses offered at WPI, the Software Engineering course challenges students to create a full-scale JavaFX application in a competitive, team environment.
   description: | # this will include new lines to allow paragraphs
@@ -14,3 +14,15 @@
     Over the course of this project, I have become confident in the use of JavaFX (Through Scenebuilder and by hand), Java class structure and design patterns, Git and Github, IntelliJ IDE, and Gradle.
 
     Alongside these technical skills, I also became more proficient in time management, team organization, and 'people skills', using many organizational tools to accomplish the former tasks, while being heavily involved with the team and team dynamics for the latter.
+
+    In the first iteration of the project, our team won 2nd place for our application and presentation. In the most recent iteration, which was in a 'Shark Tank' format presentation, our team received a perfect score.
+
+- layout: top-middle
+  name: Great Problem Seminar
+  link: https://digitalcommons.wpi.edu/gps-posters/686/
+  quote: >
+    The Great Problem Seminar is a first year course that gets freshman students into the mindset of solving real world issues using research, nuance, and an engineered solution.
+  description: | # this will include new lines to allow paragraphs
+    During the second half of GPS, students form groups in order to solve a problem of their choosing. Our group of 8 decided to tackle food insecurity in cities in the United States. Throughout the term, we researched, interviewed, and discussed what the underlying problems really were before we began to implement our solution.
+
+    Using my experience with mechanical design, we came up with a physical 'product' that would allow people in affected communities to be able to grow their own food cheaply and easily, in order to provide a source of fresh produce. Additionally, I designed and iterated upon our team's logo which helped to further my graphic design experience.

@@ -1,8 +1,16 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Hop Pathfinder (CS3733 Software Engineering)
+  link: https://github.com/RussellDeso/HopPathfinderSnapshot-Iter3
+  github: RussellDes/HopPathFinderSnapshot-Iter3
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Proclaimed as one of the hardest courses offered at WPI, the Software Engineering course challenges students to create a full-scale JavaFX application in a competitive, team environment.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    This course had 10-person student teams working in a class competition to apply Agile development methodologies and software design patterns in Java to create an indoor pathfinding application, map builder, room scheduler, and integrated service request modules for Brigham & Women’s Faulkner Hospital. The software systems that student teams created were to inform Brigham & Women’s Hospital about potential features, user interfaces, or design approaches that they might consider implementing.
+
+    As the Project Manager of our team of 10 developers, I employed the AGILE Scrum methodology to keep our team on track during our 1 week sprints. Each sprint involved bug fixing, general improvements, and a couple of new, technically adept features. As project manager, I organized our team's work backlog during the week in order to keep ourselves on track, as the fast pace of the course and the sheer workload can make it easy to fall behind before the next sprint.
+
+    In addition to managing the rest of the team, I also developed my own parts of the application, and singlehandedly revamped the entire user interface in the most recent sprint. Other components that I have worked on include a 'service request' feature, which interacts with the internal database, a powerful floor by floor directory, and most of the initial user interface designed with FXML.
+
+    Over the course of this project, I have become confident in the use of JavaFX (Through Scenebuilder and by hand), Java class structure and design patterns, Git and Github, IntelliJ IDE, and Gradle.
+
+    Alongside these technical skills, I also became more proficient in time management, team organization, and 'people skills', using many organizational tools to accomplish the former tasks, while being heavily involved with the team and team dynamics for the latter.

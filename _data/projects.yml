@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: right
   name: Hop Pathfinder (CS3733 Software Engineering)
   link: https://github.com/orgs/CS3733-C20-Team-R/dashboard
   github: RussellDeso/HopPathFinderSnapshot-Iter3
@@ -17,7 +17,7 @@
 
     In the first iteration of the project, our team won 2nd place for our application and presentation. In the most recent iteration, which was in a 'Shark Tank' format presentation, our team received a perfect score.
 
-- layout: top-middle
+- layout: left
   name: Great Problem Seminar
   link: https://digitalcommons.wpi.edu/gps-posters/686/
   quote: >

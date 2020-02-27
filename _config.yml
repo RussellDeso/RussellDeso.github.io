@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   My name is Russell and I'm a self-proclaimed robotics engineering nerd with experience in all major aspects of robotics. With years worth of working in teams to solve engineering problems, tackling competitions, and designing products, I am highly comfortable working in teams from small to large.
 
-  I am most skilled in <mark>Mechanical Design</mark>, <mark>Product Design</mark>, and more recently, <mark>Programming</mark>.
+  I am most skilled in <mark>Mechanical Design</mark>, <mark>Product Design</mark>, and more recently, <mark>Programming</mark>. I dabble in areas outside of these, and I am interested in learning all there is to know about my field.
 
 # Projects Section
 # projects_title: Projects
